@@ -3,9 +3,7 @@ nst
 
 A pythonic implementation of the basic notions and constructs of [naive set theory](http://en.wikipedia.org/wiki/Naive_set_theory).  
 
-The primitives and higher-level concepts defined here are simple and
-ineffecient.  The aim is conceptual clarification via algorithmic
-elaboration.  Use python's [native set types](http://docs.python.org/3/library/stdtypes.html?highlight=frozenset#set-types-set-frozenset) for your day-to-day set manipulations.
+The primitives and higher-level concepts defined here are simple and ineffecient.  The aim is conceptual clarification via algorithmic elaboration.  Use python's [native set types](http://docs.python.org/3/library/stdtypes.html?highlight=frozenset#set-types-set-frozenset) for your day-to-day set manipulations.
 
 ----
 
